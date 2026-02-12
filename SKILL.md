@@ -1,10 +1,9 @@
 ---
 name: inversion-analysis
-description: Apply Charlie Munger's inversion thinking to identify failure modes and
-  systematically avoid them.
+description: Apply Charlie Munger's inversion thinking to identify failure modes and systematically avoid them.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - inversion-analysis
